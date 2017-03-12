@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WOCCatalog", "WOCCatalog", "{8FEF20B3-86D4-4A89-8891-A2D5E9A6F18A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WOCCatalog", "WOCCatalog.vsimporter\WOCCatalog-WinStore10\WOCCatalog.vcxproj", "{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|ARM.ActiveCfg = Debug|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|ARM.Build.0 = Debug|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|ARM.Deploy.0 = Debug|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|Win32.Build.0 = Debug|Win32
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Debug|Win32.Deploy.0 = Debug|Win32
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|ARM.ActiveCfg = Release|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|ARM.Build.0 = Release|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|ARM.Deploy.0 = Release|ARM
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|Win32.ActiveCfg = Release|Win32
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|Win32.Build.0 = Release|Win32
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED467B38-BB0C-41DE-8719-4EFEFA8003E4} = {8FEF20B3-86D4-4A89-8891-A2D5E9A6F18A}
+	EndGlobalSection
+EndGlobal
